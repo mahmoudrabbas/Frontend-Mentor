@@ -120,7 +120,7 @@ body {
     background-color: hsl(159, 89%, 15%);
 }
 
-@media (min-width: 450px)  {
+@media (min-width: 550px)  {
     .container {
         display: flex;
         justify-content: center;
